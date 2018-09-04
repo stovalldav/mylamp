@@ -6,4 +6,4 @@ ADD ./pyListen/ /app
 
 CMD ["python", "/app/listen.py"]
 
-EXPOSE 80
+EXPOSE 8080
